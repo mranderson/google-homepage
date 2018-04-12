@@ -1,0 +1,70 @@
+.body{
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	padding: 10px;
+	vertical-align: middle;
+	margin-top: 15%;
+}
+
+img{
+	display: block;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: auto;
+	margin-left: auto;
+	width: 45%;
+}
+
+input{
+	width: 500px;
+	height: 35px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 25px;
+	background-color: white;
+	color: black;
+	border-radius: 2px;
+
+}
+
+button{
+	width: 200px;
+	height: 35px;
+	vertical-align: center;
+	margin-top: auto;
+	color: black;
+	display: inline-block;
+	background-color: WhiteSmoke;
+	border-radius: 4px;
+	border-color: black;
+	border: none;
+}
+
+.top{
+
+}
+
+.bottom{
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%
+}
+
+.right{
+	align-items: right;	
+
+}
+
+.left{
+	text-align: left;
+	
+}
+
+li{
+	display: inline-block;
+	padding: 20px;
+	margin: auto;
+
+}
